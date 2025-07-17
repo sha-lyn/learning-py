@@ -1,0 +1,6 @@
+robot_id,robot_name,weight_class,team_id,attack_power,defense_rating
+101,TitanFist,Heavyweight,1,95,88
+102,MechaRex,Lightweight,2,75,65
+103,VoltStriker,Middleweight,3,85,78
+104,IronClaw,Heavyweight,1,92,90
+105,ShadowViper,Lightweight,2,78,72
